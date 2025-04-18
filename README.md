@@ -6,7 +6,7 @@ This is a simple, responsive website built with **HTML**, **CSS**, and **JavaScr
 
 ## 🚀 Live Demo
 
-👉 [View Website](https://your-username.github.io/your-repo-name/)  
+👉 [View Website](https://aswinsaipalakonda.github.io/Tic-Tac-Toe/)  
 
 
 ## ✨ Features
@@ -20,11 +20,11 @@ This is a simple, responsive website built with **HTML**, **CSS**, and **JavaScr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/aswinsaipalakonda/Tic-Tac-Toe.git
 
 2. Open the project folder:
    ```bash
-   cd your-repo-name
+   cd Tic-Tac-Toe
 3. Open index.html in your browser or use **Live Server** in VS Code.
 
 ## 🛠️ Tools Used
@@ -34,12 +34,12 @@ This is a simple, responsive website built with **HTML**, **CSS**, and **JavaScr
   4. GitHub Pages
 
 ## 🙋‍♂️ About the Developer
-Hi, I'm Aswin Sai ! I'm passionate about front-end development and building fun, interactive web projects.
+Hi, I'm **Aswin Sai** ! I'm passionate about front-end development and building fun, interactive web projects.
 Feel free to check out more of my work or connect with me online.
 
-Portfolio: aswin.homessy.com
+Portfolio: (https://aswin.homessy.com)
 
-LinkedIn: linkedin.com/in/aswinsaipalakonda/
+LinkedIn: (https://linkedin.com/in/aswinsaipalakonda/)
 
 Email: aswinsaipalakonda@gmail.com
 
