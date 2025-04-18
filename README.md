@@ -1,6 +1,4 @@
-# Tic-Tac-Toe
-
-# 🌐 My Website
+# 🌐 Tic-Tac-Toe
 
 This is a simple, responsive website built with **HTML**, **CSS**, and **JavaScript**. It is hosted using **GitHub Pages**.
 
